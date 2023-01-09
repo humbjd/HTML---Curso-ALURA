@@ -1,0 +1,32 @@
+abcdef
+
+binario 01
+
+numerico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+# _ _ _ _ _
+
+0 = ausencia de cor
+
+F = Máximo
+
+cor preta = #000000
+
+cor branca = #FFFFFF
+
+cor vermelha = #FF0000
+
+RGB 0,1,2,3,....255
+
+0 = ausencia
+
+255 = Máximo
+
+RGB(255,255,255) cor branca
+
+RGB(0,0,255)
+
